@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+google-genai
+
+matplotlib
+
+plotly
